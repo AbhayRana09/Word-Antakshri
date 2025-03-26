@@ -83,18 +83,3 @@ Word Antakshari is an interactive web game based on the traditional game concept
 - Frontend: HTML5, CSS3, JavaScript (ES6+)
 - Additional: CORS for cross-origin requests
 
-## Screenshots
-
-### Game Interface
-![Game Interface](screenshots/screenshot1.png)
-*The main game screen showing the current word, input field, and score counter.*
-
-### Valid Word Submission
-![Valid Word](screenshots/screenshot2.png)
-*Feedback when a valid word is submitted.*
-
-### Invalid Word Submission
-![Invalid Word](screenshots/screenshot3.png)
-*Error message when an invalid word is submitted.*
-
----
